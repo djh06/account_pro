@@ -1,6 +1,6 @@
 # account_pro
-name:tom
-pass:123
+wname:tom
+wpass:123
 :q
 :wq
 :wwq

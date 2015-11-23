@@ -4,3 +4,4 @@ Mpass:123
 :q
 :wq
 :wwq
+:kakamao
